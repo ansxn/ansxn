@@ -1,4 +1,4 @@
-## Hi there 👋
+## hey I'm anson
 
 <!--
 **ansxn/ansxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Currently a second year computer science w/ IVEY AEO status at Western university I'm interested in exploring the intersection of tech and business!
